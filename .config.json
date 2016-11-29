@@ -759,6 +759,23 @@
      "file": "/home/pi/.node-red/node_modules/node-red-dashboard/nodes/ui_group.js"
     }
    }
+  },
+  "node-red-contrib-npm": {
+   "name": "node-red-contrib-npm",
+   "version": "1.0.0",
+   "local": true,
+   "nodes": {
+    "npm": {
+     "name": "npm",
+     "types": [
+      "npm"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-npm",
+     "file": "/home/pi/.node-red/node_modules/node-red-contrib-npm/npm/npm.js"
+    }
+   }
   }
  },
  "_credentialSecret": "0a6fdadc79c7341b3d84ffb433da1f85246228b1cad0fbc57e8d81370825613c"
